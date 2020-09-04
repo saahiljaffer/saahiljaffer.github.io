@@ -8,21 +8,32 @@
 #547c80
 #9a9a99 //
 #a3b7ad //
+#C9E4CA
+#87BBA2
+#55828B
+#3B6064
+#364958
  */
 
- /* ********************  GLOBAL  *********************  */ 
+ /* ********************  GLOBAL  *********************  */
 body {
-  margin: 0px;
+  background: #F7FFF7;
   color: #232a2f;
+  margin: 0;
 }
+
 img {
   width: 300px;
 }
 
 
  /* ********************  PROJECTS / PORTFOLIO  *********************  */
-header {
-   background: #a3b7ad;
+ header {
+   background: #C6D2CC;
+ }
+
+ h1 {
+   margin-top: 0;
  }
 
 #profile-picture {
@@ -32,30 +43,27 @@ header {
 
  /* ********************  WORK EXPERIENCE  *********************  */
  .work-experience {
-   background: #f7fff7;
  }
 
  /* ********************  SKILLS  *********************  */
  .skills {
-   background: #9a9a99;
+   background: #CCCCCC;
  }
 
  /* ********************  PROJECTS / PORTFOLIO  *********************  */
  .project {
-   background: #f7fff7;
  }
 
  /* ********************  LEADERSHIP EXPERIENCE  *********************  */
  .leadership-experience {
-   background: #a3b7ad;
+   background: #C6D2CC;
  }
 
  /* ********************  EDUCATION  *********************  */
  .education {
-   background: #f7fff7;
  }
 
   /* ********************  CONTACT INFO  *********************  */
   footer{
-    background: #9a9a99;
+    background: #CCCCCC;
   }
