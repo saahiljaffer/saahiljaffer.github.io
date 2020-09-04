@@ -1,8 +1,61 @@
+/* COLOURS
+#232a2f - grey
+#858152
+#b0b87b
+#7a8a7f //
+#c9d0a1
+#a3b7ad //
+#547c80
+#9a9a99 //
+#a3b7ad //
+ */
+
+ /* ********************  GLOBAL  *********************  */
+body {
+  color: #ffffff;
+  margin: 0px;
+}
 img {
   width: 300px;
 }
+
+
+ /* ********************  PROJECTS / PORTFOLIO  *********************  */
+header {
+   background: #a3b7ad;
+ }
 
 #profile-picture {
   border-radius: 50%;
   width: 200px;
 }
+
+ /* ********************  WORK EXPERIENCE  *********************  */
+ .work-experience {
+   background: #f7fff7;
+ }
+
+ /* ********************  SKILLS  *********************  */
+ .skills {
+   background: #9a9a99;
+ }
+
+ /* ********************  PROJECTS / PORTFOLIO  *********************  */
+ .project {
+   background: #f7fff7;
+ }
+
+ /* ********************  LEADERSHIP EXPERIENCE  *********************  */
+ .leadership-experience {
+   background: #a3b7ad;
+ }
+
+ /* ********************  EDUCATION  *********************  */
+ .education {
+   background: #f7fff7;
+ }
+
+  /* ********************  CONTACT INFO  *********************  */
+  footer{
+    background: #7a8a7f;
+  }
