@@ -16,6 +16,14 @@ img {
   width: 300px;
 }
 
+a {
+  color: #2D848A;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
 
  /* ********************  PROJECTS / PORTFOLIO  *********************  */
  header {
@@ -37,7 +45,7 @@ img {
 
  /* ********************  SKILLS  *********************  */
  .skills {
-   background: #CCCCCC;
+   background: #C6D0D2;
  }
 
  /* ********************  PROJECTS / PORTFOLIO  *********************  */
@@ -55,5 +63,5 @@ img {
 
   /* ********************  CONTACT INFO  *********************  */
   footer{
-    background: #CCCCCC;
+    background: #C2C2C2;
   }
