@@ -5,12 +5,27 @@
 #C6D0D2
  */
 
+
+
  /* ********************  GLOBAL  *********************  */
 body {
   background: #F7FFF7;
   color: #232a2f;
   margin: 0;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  /* padding: 20px; */
+  /* padding: 10px; */
+  /* border-style: none; */
 }
+
+
+.content-section {
+  /* margin: 10px; */
+  padding: 20px;
+}
+
 
 img {
   width: 300px;
@@ -28,6 +43,8 @@ a:hover {
  /* ********************  PROJECTS / PORTFOLIO  *********************  */
  header {
    background: #C6D2CC;
+   padding: 10px;
+   border-style: none;
  }
 
  h1 {
@@ -40,28 +57,30 @@ a:hover {
 }
 
  /* ********************  WORK EXPERIENCE  *********************  */
- .work-experience {
+ #work-experience {
  }
 
  /* ********************  SKILLS  *********************  */
- .skills {
+ #skills {
    background: #C6D0D2;
  }
 
  /* ********************  PROJECTS / PORTFOLIO  *********************  */
- .project {
+ #projects {
  }
 
  /* ********************  LEADERSHIP EXPERIENCE  *********************  */
- .leadership-experience {
+ #leadership-experience {
    background: #C6D2CC;
  }
 
  /* ********************  EDUCATION  *********************  */
- .education {
+ #education {
  }
 
   /* ********************  CONTACT INFO  *********************  */
   footer{
     background: #C6D0D2;
+    padding:20px;
+    margin: 0;
   }
