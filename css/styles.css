@@ -15,6 +15,7 @@ body {
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
   line-height: 1.5;
+  text-align: left;
   /* padding: 20px; */
   /* padding: 10px; */
   /* border-style: none; */
@@ -46,9 +47,12 @@ a:hover {
    background-image: url(../images/background.jpg);
    background-size: cover;
    background-repeat: no-repeat;
-   background-position: top left;
-   padding: 10px;
+   background-position: top right;
+   padding: 90px;
    border-style: none;
+   padding-top: 170px;
+   padding-bottom: 170px;
+   text-align: center;
  }
 
  h1 {
