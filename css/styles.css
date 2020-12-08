@@ -14,7 +14,7 @@ body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
-  line-height: 1.5;
+  line-height: 2;
   text-align: left;
   /* padding: 20px; */
   /* padding: 10px; */
@@ -23,7 +23,7 @@ body {
 
 
 .content-section {
-  max-width: 800px;
+  max-width: 840px;
   width: 85%;
   margin: 0 auto;
   padding-top: 50px;
