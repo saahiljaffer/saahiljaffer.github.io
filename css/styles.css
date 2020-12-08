@@ -126,3 +126,21 @@ footer img:hover {
   display: inline-block;
   padding: 5px 25px;
 }
+
+/* ********************  RESPONSIVE  *********************  */
+
+@media (max-width:650px){
+
+  body, a {
+    font-size: 12px;
+  }
+
+  h1 {
+    font-size: 1.75em;
+  }
+
+  h2 {
+    font-size: 1.25em;
+  }
+
+}
