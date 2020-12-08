@@ -40,10 +40,14 @@ a:hover {
 }
 
 a {
-  color: #787A95;
+  color: #666882;
   display: inline-block;
   font-weight: bolder;
   text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  text-align: left;
+  font-weight: 400;
 }
 
 p, li {
