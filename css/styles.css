@@ -55,7 +55,8 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
-  padding: 90px;
+  padding-left: 0px;
+  padding-right: 0px;
   border-style: none;
   padding-top: 250px;
   padding-bottom: 200px;
@@ -123,12 +124,10 @@ footer img:hover {
 
 /* ********************  RESPONSIVE  *********************  */
 
-@media (max-width:650px){
+@media (max-width:700px) {
 
-  header {
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-bottom: 150px;
+  header .content-section {
+    max-width: 300px;
   }
 
   body, a {
