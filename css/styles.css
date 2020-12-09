@@ -10,17 +10,12 @@
 /* ********************  GLOBAL  *********************  */
 body {
   background: #F7FFF7;
-  /* color: #232a2f; */
   margin: 0;
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
   text-align: left;
   font-weight: 400;
-  /* padding: 20px; */
-  /* padding: 10px; */
-  /* border-style: none; */
 }
-
 
 .content-section {
   max-width: 840px;
@@ -29,7 +24,6 @@ body {
   padding-top: 25px;
   padding-bottom: 25px;
 }
-
 
 img {
   width: 300px;
@@ -55,8 +49,8 @@ p, li {
 }
 
 /* ********************  PROJECTS / PORTFOLIO  *********************  */
+
 header {
-  /* background: #e8e8e6; */
   background-image: url(../images/background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -130,6 +124,12 @@ footer img:hover {
 /* ********************  RESPONSIVE  *********************  */
 
 @media (max-width:650px){
+
+  header {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 150px;
+  }
 
   body, a {
     font-size: 12px;
