@@ -48,6 +48,10 @@ p, li {
   line-height: 2;
 }
 
+h2 {
+  padding-top: 0px;
+  /* margin-top: 0px; */
+}
 /* ********************  PROJECTS / PORTFOLIO  *********************  */
 
 header {
@@ -80,7 +84,7 @@ h1 {
 }
 
 h2 {
-  margin-top: 40px;
+  /* margin-top: 40px; */
 }
 
 /* ********************  WORK EXPERIENCE  *********************  */
@@ -108,7 +112,7 @@ h2 {
 /* ********************  CONTACT INFO  *********************  */
 footer{
   background: #CCCDD7;
-  padding: 20px;
+  padding: 25px;
   margin: 0;
   text-align: center;
 }
@@ -124,13 +128,14 @@ footer img:hover {
 .contact-list {
   list-style-type: none;
   padding: 0;
+  /* margin: 0; */
   display: flex;
   justify-content: center;
 }
 
 .contact-list a {
   display: inline-block;
-  padding: 5px 25px;
+  padding: 0px 25px;
 }
 
 /* ********************  RESPONSIVE  *********************  */
@@ -151,7 +156,7 @@ footer img:hover {
 
   h2 {
     /* font-size: 1.5em; */
-    margin-top: 25px;
+    /* margin-top: 25px; */
   }
 
 }
