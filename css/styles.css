@@ -5,11 +5,8 @@
 #C6D0D2
 */
 
-
-
 /* ********************  GLOBAL  *********************  */
 body {
-  /* background: #F7FFF7; */
   margin: 0;
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
@@ -50,9 +47,7 @@ p, li {
 
 h2 {
   padding-top: 0px;
-  /* margin-top: 0px; */
 }
-/* ********************  PROJECTS / PORTFOLIO  *********************  */
 
 header {
   background-image: url(../images/background.jpg);
@@ -63,55 +58,35 @@ header {
   padding-right: 0px;
   border-style: none;
   padding-top: 300px;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
   text-align: center;
-  /* line-height: 1; */
 }
 
 header p {
   line-height: 1;
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 h1 {
-  /* margin: 0; */
   font-size: 3em;
 }
 
 #profile-picture {
   border-radius: 50%;
   width: 200px;
-  /* margin: 0; */
+  padding-bottom: 20px;
 }
 
-h2 {
-  /* margin-top: 40px; */
-}
-
-/* ********************  WORK EXPERIENCE  *********************  */
-#work-experience {
-}
-
-/* ********************  SKILLS  *********************  */
-#skills {
-}
-
-/* ********************  PROJECTS / PORTFOLIO  *********************  */
-#projects {
+#block-two {
   background: #CCCDD7;
 }
 
-/* ********************  LEADERSHIP EXPERIENCE  *********************  */
-#leadership-experience {
+#block-four {
   background: #D8D8D7;
 }
 
-/* ********************  EDUCATION  *********************  */
-#education {
-}
-
-/* ********************  CONTACT INFO  *********************  */
-footer{
-  background: #CCCDD7;
+footer {
   padding: 25px;
   margin: 0;
   text-align: center;
@@ -148,15 +123,6 @@ footer img:hover {
 
   body, a {
     font-size: 12px;
-  }
-
-  /* h1 {
-    font-size: 2em;
-  } */
-
-  h2 {
-    /* font-size: 1.5em; */
-    /* margin-top: 25px; */
   }
 
 }
