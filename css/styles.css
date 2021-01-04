@@ -117,6 +117,10 @@ footer img:hover {
 
 @media (max-width:700px) {
 
+  header {
+    padding-top: 150px;
+  }
+
   header .content-section {
     max-width: 300px;
   }
