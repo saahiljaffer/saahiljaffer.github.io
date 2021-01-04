@@ -30,7 +30,7 @@ a:hover {
   text-decoration: underline;
 }
 
-a {
+header a {
   color: #666882;
   display: inline-block;
   font-weight: bolder;
