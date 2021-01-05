@@ -41,6 +41,18 @@ a {
   font-weight: 400;
 }
 
+h3 a {
+  /* color: #666882; */
+  color: inherit;
+  display: inherit;
+  /* font-weight: bolder; */
+  text-decoration: none;
+  font-family: inherit;
+  font-size: inherit;
+  text-align: inherit;
+  font-weight: inherit;
+}
+
 p, li {
   line-height: 2;
 }
